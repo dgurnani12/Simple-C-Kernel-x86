@@ -1,2 +1,3 @@
 Works cited:
 Arjun Sreedharan - Kernel 101
+Derek Molloy - Writing a Linux Kernel Module
