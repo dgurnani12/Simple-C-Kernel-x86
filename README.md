@@ -11,4 +11,6 @@ TODO
 	i. [Kernel 101](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 	ii. [Kernel 201](http://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
  
-Derek Molloy's [Writing a Linux Kernel Module](http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/) (beaglebone board series) did provide some additional insights.
+3. Derek Molloy's [Writing a Linux Kernel Module](http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/) (beaglebone board series) did provide some additional insights.
+
+4. Simple Keyboard map: keyboard.h - was taken directly from http://www.osdever.net/bkerndev/Docs/keyboard.htm.
