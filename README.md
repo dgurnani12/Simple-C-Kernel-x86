@@ -5,7 +5,7 @@ A x86 simple kernel that echos input from keyboard
 ### Grub:
   1) Build the kernel:
     $    ./build
-  2) Move the kernel to /Boot. (also better to rename kernel to kernel-###); where the ### is a number greater than 4
+  2) Move the kernel to /Boot. (also better to rename kernel to kernel-###); where the ### is a number between 100-200 
   3) Run the commands from "commands.grub" in a grub shell.
 
 ### qemu:
