@@ -1,0 +1,4 @@
+# Run these commands to build the kernel in the projects root directory:
+nasm -f elf32 source/kernel.asm -o objects/kasm.o;
+gcc -fno-stack-protector -m32 -c source/kernel.c -o objects/kc.o;
+ld -m elf_i386 -T source/link.ld -o kernel objects/kasm.o objects/kc.o;
