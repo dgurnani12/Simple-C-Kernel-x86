@@ -13,3 +13,8 @@ A x86 simple kernel that echos input from keyboard
     $    ./build
 2) Run qemu:
     $     qemu-system-i386 -kernel kernel
+
+## Screenshots:
+<p align="center">
+  <img src="https://github.com/dgurnani12/Simple-C-Kernel-x86/blob/master/Screenshot.png"/>
+</p>
